@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/www.randqua.com/static/css/main.6f27a606.chunk.css",
+    "main.js": "/www.randqua.com/static/js/main.86526ae5.chunk.js",
+    "main.js.map": "/www.randqua.com/static/js/main.86526ae5.chunk.js.map",
+    "runtime-main.js": "/www.randqua.com/static/js/runtime-main.c099675b.js",
+    "runtime-main.js.map": "/www.randqua.com/static/js/runtime-main.c099675b.js.map",
+    "static/js/2.4d9e4245.chunk.js": "/www.randqua.com/static/js/2.4d9e4245.chunk.js",
+    "static/js/2.4d9e4245.chunk.js.map": "/www.randqua.com/static/js/2.4d9e4245.chunk.js.map",
+    "index.html": "/www.randqua.com/index.html",
+    "static/css/main.6f27a606.chunk.css.map": "/www.randqua.com/static/css/main.6f27a606.chunk.css.map",
+    "static/js/2.4d9e4245.chunk.js.LICENSE.txt": "/www.randqua.com/static/js/2.4d9e4245.chunk.js.LICENSE.txt",
+    "static/media/araba.43cf2355.jpg": "/www.randqua.com/static/media/araba.43cf2355.jpg",
+    "static/media/bilgisayar.ceea4104.jpg": "/www.randqua.com/static/media/bilgisayar.ceea4104.jpg",
+    "static/media/gozluk.ea783a97.jpg": "/www.randqua.com/static/media/gozluk.ea783a97.jpg",
+    "static/media/kazak.1319b41e.jpg": "/www.randqua.com/static/media/kazak.1319b41e.jpg",
+    "static/media/kulaklik.74332beb.jpg": "/www.randqua.com/static/media/kulaklik.74332beb.jpg",
+    "static/media/oyuncukoltugu.aeccf714.jpg": "/www.randqua.com/static/media/oyuncukoltugu.aeccf714.jpg",
+    "static/media/pantalon.7b5e4c47.jpg": "/www.randqua.com/static/media/pantalon.7b5e4c47.jpg",
+    "static/media/rp.5f132833.jpg": "/www.randqua.com/static/media/rp.5f132833.jpg",
+    "static/media/s400.1808c4f3.jpg": "/www.randqua.com/static/media/s400.1808c4f3.jpg",
+    "static/media/saat.439eb435.jpg": "/www.randqua.com/static/media/saat.439eb435.jpg",
+    "static/media/tisort.68a72d0a.jpg": "/www.randqua.com/static/media/tisort.68a72d0a.jpg",
+    "static/media/ucakk.c4f72b11.jpg": "/www.randqua.com/static/media/ucakk.c4f72b11.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c099675b.js",
+    "static/js/2.4d9e4245.chunk.js",
+    "static/css/main.6f27a606.chunk.css",
+    "static/js/main.86526ae5.chunk.js"
+  ]
+}
